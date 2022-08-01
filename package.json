@@ -2,7 +2,7 @@
     "name": "staple-dark",
     "displayName": "staPle Dark",
     "description": "Simple dark theme with pastel colors",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "HoangDuongPham",
     "repository": {
         "type": "git",
@@ -22,7 +22,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "test",
+                "label": "staPle Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/test-color-theme.json"
             }
