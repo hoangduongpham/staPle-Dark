@@ -1,0 +1,31 @@
+{
+    "name": "staple-dark",
+    "displayName": "staPle Dark",
+    "description": "Simple dark theme with pastel colors",
+    "version": "1.0.0",
+    "author": "HoangDuongPham",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hoangduongpham/staPle-Dark"
+    },
+    "keywords": [
+        "staple",
+        "dark",
+        "theme"
+    ],
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "test",
+                "uiTheme": "vs-dark",
+                "path": "./themes/test-color-theme.json"
+            }
+        ]
+    }
+}
